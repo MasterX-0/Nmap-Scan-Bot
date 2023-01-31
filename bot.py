@@ -6,7 +6,7 @@ BOT_TOKEN = "6181646722:AAHawj5TkcTjv9cgWIvyftbVUQba1pPZqHM"
 API_HASH = "9d2c6cdf712fc6cd9e667567111a1cb8"
 API_ID = int(9247680)
 
-path = 
+path = ""
 
 bot = Client(
 	"shell_bot",
