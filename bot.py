@@ -4,7 +4,6 @@ from pyrogram import Client, filters
 from pyrogram.errors.exceptions.bad_request_400 import MessageEmpty
 from pyrogram.errors.exceptions.bad_request_400 import MessageTooLong
 
-from multiprocessing import Process
 
 BOT_TOKEN = "6181646722:AAF9l4MCuAn4zUkV1AStdfuGV2FNOUkWbAM"
 API_HASH = "9d2c6cdf712fc6cd9e667567111a1cb8"
