@@ -8,7 +8,7 @@ BOT_TOKEN = "6181646722:AAF9l4MCuAn4zUkV1AStdfuGV2FNOUkWbAM"
 API_HASH = "9d2c6cdf712fc6cd9e667567111a1cb8"
 API_ID = int(9247680)
 
-path = "/bot/"
+path = "/nmap_bot/"
 
 bot = Client(
 	"nmap_bot",
@@ -67,7 +67,7 @@ async def ping(bot, message):
 	except MessageTooLong:
 		await message.reply_document(f"{path}ping.txt", caption=f"**Ping :** `{query}`")
 
-@bot.on_message(filters.command("run"))
+@bot.on_message(filters.command("run") & filters.user(5262156299))
 async def shell(bot, message):
 	chat = message.chat.id
 	query = query = message.text.split(None, 1)[1]
