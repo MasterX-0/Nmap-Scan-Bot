@@ -1,5 +1,4 @@
 apt install nmap -y
 apt install git -y
-apt install python -y
-apt install neofetch -y
+pwd
 python bot.py
