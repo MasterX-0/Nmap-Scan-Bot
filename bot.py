@@ -44,7 +44,6 @@ async def runnmap(bot, message):
 			os.system(f"nmap {query} >> {path}_nmap.txt")
 			o = open(f"{path}_nmap.txt", "r")
 			await message.reply_text(o.read(), disable_web_page_preview=True)
-			os.system(f"rm -rf {path}_nmap.txt")
 		else:
 			await message.reply_text("`Error...`")
 	except MessageTooLong:
