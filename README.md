@@ -21,7 +21,7 @@
 
 * Linux
 
-### Self-Hosting ( Devs ) ❤️‍🩹
+## Self Hosting ( Devs ) ❤️‍🩹
 
 ```sh
 # Install Nmap
@@ -48,7 +48,8 @@ $ python3 bot.py
 
 ```
 
-## Dev 😗
+## Dev ❤️
 
-* [MasterX](https://t.me/About_xyz)
+- **[MasterX](https://t.me/About_xyz)** - Dev & Owner
+
 
