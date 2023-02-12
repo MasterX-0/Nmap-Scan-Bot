@@ -4,10 +4,11 @@ from pyrogram import Client, filters
 from pyrogram.errors.exceptions.bad_request_400 import MessageEmpty
 from pyrogram.errors.exceptions.bad_request_400 import MessageTooLong
 
+os.system("clear")
 
-BOT_TOKEN = "6181646722:AAF9l4MCuAn4zUkV1AStdfuGV2FNOUkWbAM"
-API_HASH = "9d2c6cdf712fc6cd9e667567111a1cb8"
-API_ID = int(9247680)
+BOT_TOKEN = input("[~] Enter Your BOT_TOKEN : ")
+API_HASH = input("[~] Enter Your API_HASH : ")
+API_ID = int(input("[~] Enter Your API_ID : "))
 
 pwd = os.getcwd()
 
