@@ -8,20 +8,20 @@
     <a href="https://github.com/Dilum125/Nmap-Scan-Bot/network/members"> <img src="https://img.shields.io/github/forks/Dilum125/Nmap-Scan-Bot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
  </p>
 
-> Telegram Nmap Scan Bot
+> Telegram [Nmap](https://nmap.org/) Scan Bot
 
-## Requirements
+## Requirements 🌿
 
 * [Nmap](https://nmap.org/)
-* Python
+* Python3
 * Pyrogram
 * speedtest-cli
 
-## Tested On
+## Tested On ✨️
 
 * Linux
 
-### Self-Hosting
+### Self-Hosting ( Devs ) ❤️‍🩹
 
 ```sh
 # Install Nmap
@@ -36,3 +36,19 @@ $ pip3 install -r requirements.txt
 # Start bot 
 $ python3 bot.py
 ```
+
+## Mandatory Vars 📒
+
+```
+[+] Make Sure You Add All These Mandatory Vars.
+ 
+    [-] API_ID:   You can get this value from https://my.telegram.org
+    [-] API_HASH :   You can get this value from https://my.telegram.org
+    [-] TOKEN: Get from @BotFather
+
+```
+
+## Dev 😗
+
+* [MasterX](https://t.me/About_xyz)
+
