@@ -61,9 +61,9 @@ Commands :
   >  /speedtest
 
 /help = Help Menu
-/nmap = Scan Nmap ( ex : /nmap google.com , /nmap --help )
+/nmap = Nmap Scan ( ex : /nmap google.com , /nmap --help )
 /ping = Ping Scan ( ex : /ping google.com )
-/run = Run Shell Command ( ex : run lscpu )
+/run = Run Shell Command ( ex : /run lscpu )
 /speedtest = Network Speedtest ( https://speedtest.net )
 
 ```
