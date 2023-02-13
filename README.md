@@ -45,11 +45,15 @@ $ python3 bot.py
     [-] API_ID:   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
     [-] TOKEN: Get from @BotFather
+    [-] OWNER_ID : Get from @my_id_bot
 
 ```
 
 ## Dev ❤️
 
-- **[MasterX](https://t.me/About_xyz)** - Dev & Owner
+- **[MasterX](https://t.me/About_xyz) - Dev & Owner**
 
+## Join with Us ☘
 
+[![Telegram](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/team_mars_11)
+[![Telegram Group](https://img.shields.io/badge/TELEGRAM-GROUP-blue?style=for-the-badge&logo=telegram)](https://t.me/TeamMars_11)
