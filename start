@@ -1,4 +1,0 @@
-apt install nmap -y
-apt install git -y
-pwd
-python bot.py
