@@ -42,10 +42,11 @@ $ python3 -m Nmap_Bot
 ```
 [+] Make Sure You Add All These Mandatory Vars.
  
-    [-] API_ID:   You can get this value from https://my.telegram.org
+    [-] API_ID :   You can get this value from https://my.telegram.org
     [-] API_HASH :   You can get this value from https://my.telegram.org
-    [-] TOKEN: Get from @BotFather
+    [-] TOKEN : Get from @BotFather
     [-] OWNER_ID : Get from @my_id_bot
+    [-] BOT_USERNAME : Your Bot Username 
 
 ```
 
