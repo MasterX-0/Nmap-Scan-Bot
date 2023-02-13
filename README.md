@@ -49,10 +49,36 @@ $ python3 -m Nmap_Bot
     [-] BOT_USERNAME : Your Bot Username 
 
 ```
+## Bot Commands 💡
+
+```console
+Commands :
+
+  >  /help
+  >  /nmap
+  >  /ping
+  >  /run - Owner
+  >  /speedtest
+
+/help = Help Menu
+/nmap = Scan Nmap ( ex : /nmap google.com , /nmap --help )
+/ping = Ping Scan ( ex : /ping google.com )
+/run = Run Shell Command ( ex : run lscpu )
+/speedtest = Network Speedtest ( https://speedtest.net )
+
+```
 
 ## Dev ❤️
 
 - **[MasterX](https://t.me/About_xyz) - Dev & Owner**
+
+## Made with 🛠
+
+<img src="https://www.python.org/static/community_logos/python-logo.png">
+
+## Framework 🧰
+
+[<p align="left"><img src="https://telegra.ph/file/0590c398350a15238b9eb.png" width="200">](https://docs.pyrogram.org/)
 
 ## Join with Us ☘
 
